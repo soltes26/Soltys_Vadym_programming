@@ -1,0 +1,15 @@
+Expenses report for Vadym Soltys (IT-32)
+Period: 2026-10-01 .. 2026-10-01
+Records: 3
+
+category   count     total   share  chart
+----------------------------------------------------
+food           1     85.00   46.7%  #########
+coffee         1     65.00   35.7%  #######
+transport      1     32.00   17.6%  ###
+----------------------------------------------------
+total          3    182.00  100.0%
+
+Top day: 2026-10-01 (182.00)
+Most expensive: food 85.00 (lunch at canteen)
+Average per day: 182.00
