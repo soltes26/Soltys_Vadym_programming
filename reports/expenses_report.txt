@@ -1,0 +1,17 @@
+Expenses report for Vadym Soltys (IT-32)
+Period: 2026-10-20 .. 2026-10-26
+Records: 9
+
+category   count     total   share  chart
+----------------------------------------------------
+food           4    367.00   34.0%  ######
+internet       1    250.00   23.1%  ####
+books          1    220.00   20.4%  ####
+games          1    180.00   16.7%  ###
+transport      2     64.00    5.9%  #
+----------------------------------------------------
+total          9   1081.00  100.0%
+
+Top day: 2026-10-24 (282.00)
+Most expensive: internet 250.00 (monthly plan)
+Average per day: 154.43
